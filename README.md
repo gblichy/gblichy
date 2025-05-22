@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Desenvolvedora Pleno Java/Kotlin</b> <br/>
-  Campinas, SP • Backend Specialist • Apaixonada por código limpo 💙
+  Campinas, SP • Backend  • Apaixonada por código limpo 💙
 </p>
 
 ---
