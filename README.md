@@ -44,4 +44,7 @@
 
 ---
 
+
+![Snake animation](https://github.com/gblichy/gblichy/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">💻 Feito com ♥ por Gabriela Lichy</p>
