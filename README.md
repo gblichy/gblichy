@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Desenvolvedora Pleno Java/Kotlin</b> <br/>
-  Campinas, SP • Backend  • Apaixonada por código limpo 💙
+  Campinas, SP • Backend Specialist • Apaixonada por código limpo 💙
 </p>
 
 ---
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -36,21 +37,11 @@
 
 ---
 
-### 📂 Repositórios em Destaque
-
-- 🔍 [`validador-lote-cpf`](https://github.com/seu-usuario/repositorio-exemplo): Validação de planilhas com retorno estruturado e pub/sub
-- 💳 [`consulta-tarifa-api`](https://github.com/seu-usuario/repositorio-exemplo): API com hierarquia de tarifas personalizadas
-- 📊 [`limite-credito-bq`](https://github.com/seu-usuario/repositorio-exemplo): Consulta com BigQuery + IA
-
----
-
 ### 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Lichy-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Lichy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-lichy-458037b0/)  
+[![Instagram](https://img.shields.io/badge/@gblichy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gblichy/)
 
 ---
 
 <p align="center">💻 Feito com ♥ por Gabriela Lichy</p>
-
- 
-![Snake animation](https://github.com/gblichy/gblichy/blob/output/github-contribution-grid-snake.svg)
